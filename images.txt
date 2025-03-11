@@ -7,4 +7,3 @@ xhofe/alist:latest
 archont94/counter-strike1.6
 hello-world
 lanol/filecodebox:beta
-youshandefeiyang/av3a-assistant:arm64
