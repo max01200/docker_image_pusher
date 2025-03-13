@@ -9,3 +9,4 @@ lanol/filecodebox:beta
 snowdreamtech/frps
 docker
 lanol/filecodebox:beta
+outlovecn/portainer-cn:latest
