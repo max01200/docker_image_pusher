@@ -8,3 +8,4 @@ archont94/counter-strike1.6
 lanol/filecodebox:beta
 snowdreamtech/frps
 docker
+lanol/filecodebox:beta
