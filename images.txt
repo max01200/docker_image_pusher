@@ -10,3 +10,4 @@ snowdreamtech/frps
 docker
 lanol/filecodebox:beta
 outlovecn/portainer-cn:latest
+cloudflare/cloudflared:latest
