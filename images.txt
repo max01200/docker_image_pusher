@@ -12,3 +12,4 @@ lanol/filecodebox:beta
 outlovecn/portainer-cn:latest
 cloudflare/cloudflared:latest
 lscr.io/linuxserver/librespeed:latest
+antonyleons/ward
