@@ -13,4 +13,4 @@ outlovecn/portainer-cn:latest
 cloudflare/cloudflared:latest
 lscr.io/linuxserver/librespeed:latest
 antonyleons/ward
-docker pull gitlab/gitlab-ce
+gitlab/gitlab-ce
