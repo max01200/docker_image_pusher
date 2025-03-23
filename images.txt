@@ -15,4 +15,5 @@ lscr.io/linuxserver/librespeed:latest
 antonyleons/ward
 gitlab/gitlab-ce
 whyour/qinglong:latest
-lhy0503/snell:latest
+azurelane/snell:latest
+metowolf/snell
