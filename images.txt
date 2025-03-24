@@ -18,3 +18,4 @@ whyour/qinglong:latest
 azurelane/snell:latest
 metowolf/snell
 hectorqin/reader
+linzeyi/hivision_idphotos
