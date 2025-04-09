@@ -20,3 +20,4 @@ metowolf/snell
 hectorqin/reader
 linzeyi/hivision_idphotos
 fooololo/aipan-netdisk-search
+webmonitor/ext
