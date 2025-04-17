@@ -21,3 +21,4 @@ hectorqin/reader
 linzeyi/hivision_idphotos
 fooololo/aipan-netdisk-search
 webmonitor/ext
+https://github.com/wowgaming/client-data/releases/download/v16/data.zip
