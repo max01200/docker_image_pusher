@@ -1,24 +1,9 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 archont94/counter-strike1.6
 lanol/filecodebox:beta
 snowdreamtech/frps
-docker
 lanol/filecodebox:beta
 outlovecn/portainer-cn:latest
 cloudflare/cloudflared:latest
 lscr.io/linuxserver/librespeed:latest
-antonyleons/ward
-gitlab/gitlab-ce
-whyour/qinglong:latest
-azurelane/snell:latest
-metowolf/snell
-hectorqin/reader
-linzeyi/hivision_idphotos
-fooololo/aipan-netdisk-search
-webmonitor/ext
-https://github.com/wowgaming/client-data/releases/download/v16/data.zip
